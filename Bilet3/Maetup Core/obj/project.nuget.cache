@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pa3H943C/cSdQwt0fZ+OnrdsUYBJ0pdumGHZSs6t8dVkF1FOi5kup8CU/PI/mo0ilvXLFUKuXu2CwSJR7eIdZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I novbe\\source\\repos\\bilet3\\Maetup Core\\Maetup Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I novbe\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\I novbe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\I novbe\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

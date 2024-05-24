@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\bilet3..bundle.scp.css",
+      "PackagePath": "staticwebassets\\bilet3..bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\dosis-font.css",
+      "PackagePath": "staticwebassets\\css\\dosis-font.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\dosis\\3isE9muMMOq1K7TQ7HkKvIDGDUGfDkXyfkzVDelzfFk.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\3isE9muMMOq1K7TQ7HkKvIDGDUGfDkXyfkzVDelzfFk.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\dosis\\O6SOu9hYsPHTU43R17NS5XYhjbSpvc47ee6xR_80Hnw.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\O6SOu9hYsPHTU43R17NS5XYhjbSpvc47ee6xR_80Hnw.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\dosis\\RPKDmaFi75RJkvjWaDDb0nYhjbSpvc47ee6xR_80Hnw.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\RPKDmaFi75RJkvjWaDDb0nYhjbSpvc47ee6xR_80Hnw.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\dosis\\VK-RlLrn4NFhRGqPkj6IwBkAz4rYn47Zy2rvigWQf6w.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\VK-RlLrn4NFhRGqPkj6IwBkAz4rYn47Zy2rvigWQf6w.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\dosis\\oaBFj7Fz9Y9_eW3k9Jd9X6CWcynf_cDxXwCLxiixG1c.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\oaBFj7Fz9Y9_eW3k9Jd9X6CWcynf_cDxXwCLxiixG1c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\meetup-logo.png",
+      "PackagePath": "staticwebassets\\img\\meetup-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\rocket.png",
+      "PackagePath": "staticwebassets\\img\\rocket.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-1.png",
+      "PackagePath": "staticwebassets\\img\\speaker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-2.png",
+      "PackagePath": "staticwebassets\\img\\speaker-2.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-3.png",
+      "PackagePath": "staticwebassets\\img\\speaker-3.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-4.png",
+      "PackagePath": "staticwebassets\\img\\speaker-4.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-5.png",
+      "PackagePath": "staticwebassets\\img\\speaker-5.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\img\\speaker-6.png",
+      "PackagePath": "staticwebassets\\img\\speaker-6.png"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\scrolling-nav.js",
+      "PackagePath": "staticwebassets\\js\\scrolling-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\source\\repos\\bilet3\\bilet3\\wwwroot\\js\\validator.js",
+      "PackagePath": "staticwebassets\\js\\validator.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bilet3..Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.bilet3..props",
+      "PackagePath": "build\\bilet3..props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.bilet3..props",
+      "PackagePath": "buildMultiTargeting\\bilet3..props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.bilet3..props",
+      "PackagePath": "buildTransitive\\bilet3..props"
+    }
+  ],
+  "ElementsToRemove": []
+}
